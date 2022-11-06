@@ -1,7 +1,5 @@
 ### :bookmark: Link your task
 
-<!-- E.g [WEB-1090](https://financefox.atlassian.net/browse/WEB-1090) -->
-
 - **Ticket:**
 
 ### :memo: Add a description
@@ -11,15 +9,8 @@
 ### :test_tube: How can it be tested?
 
 <!-- The testing location or resource. -->
-<!-- e.g in the styorybook http://localhost:6006/ -->
-<!-- e.g in the playground http://localhost:9000/ -->
+<!-- e.g in the dev enviroment http://localhost:3000/ -->
 
 ### :camera: Visual feedback
 
 <!-- Showcase your feature if possible. -->
-
-<!--
-
-Please go over the checklist and make sure all conditions are met.
-
---->
